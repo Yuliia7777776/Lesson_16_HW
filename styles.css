@@ -1,20 +1,12 @@
-.freehand_landing_page{
+ .freehand_landing_page{
   height: 934px;
-  width: 1440px;
-  left: -720px;
-  top: -2147px;
-  border-radius: 0px;
   background: rgba(255, 255, 255, 1);
 }
     
 .header {
   height: 80px;
   width: 1440px;
-  left: 0px;
-  top: 0px;
-  border-radius: 0px;
   border: 1px solid rgb(27, 212, 226);
-  position: absolute;
 }
     
 .container {
@@ -34,21 +26,12 @@
 .Logo {
   height: 35px;
   width: 200px;
-  left: 0px;
-  top: 22.5px;
-  border-radius: 0px;
-  width: 200px;
-  height: 35px;
 }
     
 .vector {
   height: 30px;
   width: 30px;
-  left: 1.06px;
-  top: 23px;
-  border-radius: 0px;
   color: rgba(61, 179, 112, 1);
-  position: absolute;
   border: 1px solid #3DB370;
 }
     
@@ -79,8 +62,6 @@ h1 {
 .Text_service {
   height: 81px;
   width: 377px;
-  left: 0px;
-  top: 0px;
 }
     
 .text_1 {
@@ -148,7 +129,7 @@ h1 {
 .icon {
   height: 64px;
   width: 64px;
-  border-radius: [object Object]px;
+  border-radius: 0px;
   border: 1px solid rgba(21, 101, 216, 0.1);
 }
     
@@ -234,7 +215,7 @@ div.title_first_text{
 .icon_1{
 height: 64px;
 width: 64px;
-border-radius: [object Object]px;
+border-radius: 0px;
 border: 1px solid rgba(61, 179, 112, 0.1);
 }
         
@@ -435,10 +416,6 @@ border: 1px solid rgba(61, 179, 112, 0.1);
   left: 43.6px;
   top: -0.5px;
   position: absolute;
-  left: 21.81%;
-  right: -0.31%;
-  top: -1.43%;
-  bottom: 1.43%;
 }
     
 .Text_footer_logo{
@@ -511,7 +488,7 @@ border: 1px solid rgba(61, 179, 112, 0.1);
 .dribbble{
   height: 38px;
   width: 38px;
-  border-radius: [object Object]px;
+  border-radius:0px;
   flex: none; 
   order: 0;
   flex-grow: 0;
@@ -526,7 +503,7 @@ border: 1px solid rgba(61, 179, 112, 0.1);
 .twitter {
   height: 38px;
   width: 38px;
-  border-radius: [object Object]px;
+  border-radius: 0px;
   flex: none; 
   order: 0;
   flex-grow: 0;
@@ -536,4 +513,16 @@ border: 1px solid rgba(61, 179, 112, 0.1);
 .twitter_1 {
   height: 35px;
   width: 35px;
+}
+
+path.svg-svg:hover {
+  fill: rgba(82, 194, 157, 1);
+}
+
+path.svg-2:hover {
+  fill: rgb(142, 199, 249);
+}
+
+path.svg-3:hover {
+  fill: rgba(82, 194, 157, 1);
 }
